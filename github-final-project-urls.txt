@@ -1,0 +1,20 @@
+GitHub Final Project - Submission URLs
+Username: hammadryaz
+
+Task 1 - README.md:
+https://github.com/hammadryaz/github-final-project/blob/main/README.md
+
+Task 2 - LICENSE (Apache License 2.0):
+https://github.com/hammadryaz/github-final-project/blob/main/LICENSE
+
+Task 3 - CODE_OF_CONDUCT.md:
+https://github.com/hammadryaz/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+Task 4 - CONTRIBUTING.md:
+https://github.com/hammadryaz/github-final-project/blob/main/CONTRIBUTING.md
+
+Task 5 - simple-interest.sh:
+https://github.com/hammadryaz/github-final-project/blob/main/simple-interest.sh
+
+Task 6 - Repository homepage (Option 2 only):
+https://github.com/hammadryaz/github-final-project
